@@ -18,7 +18,7 @@ class FirebaseEventKind {{
   final Map<String, dynamic> _params;
 
   void sendEvent() {{
-    debugPrint('SEND FIREBASE EVENT: _eventName (parameter: _params)');
+    debugPrint('SEND FIREBASE EVENT: $_eventName (parameter: $_params)');
     FirebaseAnalytics.instance.logEvent(
       name: _eventName,
       parameters: _params,

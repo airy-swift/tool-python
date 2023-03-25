@@ -1,0 +1,7 @@
+# 35.91455,140.0560 # 埼玉:取手 https://address.love/homes/50
+# 36.3727618,140.4877694 # 茨城:水戸 https://address.love/homes/276
+36.98554404,140.06456886 # 栃木:那須塩原 https://address.love/homes/381
+37.28626048,140.37564215 # 福島:須賀川 https://address.love/homes/216
+37.055706,140.892378 # 福島:いわき https://address.love/homes/66
+37.56286,140.991739 # 福島:南相馬 https://address.love/homes/47
+38.28829135,140.88282569 # 宮城:対原 https://address.love/homes/316
