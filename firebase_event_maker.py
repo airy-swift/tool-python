@@ -21,7 +21,7 @@ class FirebaseEventKind {{
     debugPrint('SEND FIREBASE EVENT: _eventName (parameter: _params)');
     FirebaseAnalytics.instance.logEvent(
       name: _eventName,
-      parameters: _params,
+      parameters: Map<String, Object>.from(_params),
     );
   }}  
 }}
